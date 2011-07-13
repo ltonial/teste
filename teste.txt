@@ -1,3 +1,7 @@
 teste
+<<<<<<< HEAD
 teste5
+=======
+teste4
+>>>>>>> origin/master
 teste3
